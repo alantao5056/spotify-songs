@@ -5,3 +5,5 @@
 
 *Rproj
 _files
+_site
+/.quarto/
