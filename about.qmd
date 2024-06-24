@@ -2,4 +2,9 @@
 title: "About"
 ---
 
-About this site
+This website is a project made in [Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info/). I'm really interested in music in general, so I decided to focus my project on this topic. 
+
+Email: alantaolr@outlook.com\
+GitHub: [https://github.com/alantao5056](https://github.com/alantao5056)\
+YouTube: [https://www.youtube.com/channel/UCzdtyvYuUM6EGKhtsbF_jhQ](https://www.youtube.com/channel/UCzdtyvYuUM6EGKhtsbF_jhQ)
+

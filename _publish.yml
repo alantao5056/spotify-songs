@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 98f34ccd-26a4-4ed0-9bd0-9584f44267a6
+      url: 'https://alienjao.quarto.pub/spotify-songs'
