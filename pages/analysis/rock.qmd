@@ -2,4 +2,22 @@
 title: "Rock"
 ---
 
-![](../../src/plots/spotify_30000_rock_loudness.png)
+## Data Methdology
+I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. I filtered out only the rock songs. All of the following plots are density plots about five variables (popularity, danceability, speechiness, valence, and tempo), seperated by the subgenres of rock.
+
+## Plots
+
+### Popularity of Rock Songs by Subgenre
+![](../../src/plots/rock/spotify_30000_rock_popularity.png)
+
+### Danceability of Rock Songs by Subgenre
+![](../../src/plots/rock/spotify_30000_rock_danceability.png)
+
+### Speechiness of Rock Songs by Subgenre
+![](../../src/plots/rock/spotify_30000_rock_speechiness.png)
+
+### Valence of Rock Songs by Subgenre
+![](../../src/plots/rock/spotify_30000_rock_valence.png)
+
+### Tempo of Rock Songs by Subgenre
+![](../../src/plots/rock/spotify_30000_rock_tempo.png)

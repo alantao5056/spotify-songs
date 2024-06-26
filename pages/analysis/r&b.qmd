@@ -2,4 +2,23 @@
 title: "R&B"
 ---
 
-![](../../src/plots/spotify_30000_r&b_danceability.png)
+
+## Data Methdology
+I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. I filtered out only the R&B songs. All of the following plots are density plots about five variables (popularity, danceability, speechiness, valence, and tempo), seperated by the subgenres of R&B.
+
+## Plots
+
+### Popularity of R&B Songs by Subgenre
+![](../../src/plots/r&b/spotify_30000_r&b_popularity.png)
+
+### Danceability of R&B Songs by Subgenre
+![](../../src/plots/r&b/spotify_30000_r&b_danceability.png)
+
+### Speechiness of R&B Songs by Subgenre
+![](../../src/plots/r&b/spotify_30000_r&b_speechiness.png)
+
+### Valence of R&B Songs by Subgenre
+![](../../src/plots/r&b/spotify_30000_r&b_valence.png)
+
+### Tempo of R&B Songs by Subgenre
+![](../../src/plots/r&b/spotify_30000_r&b_tempo.png)

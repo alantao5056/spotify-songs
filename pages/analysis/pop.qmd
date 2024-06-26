@@ -1,5 +1,22 @@
 ---
 title: "Pop"
 ---
+## Data Methdology
+I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. I filtered out only the pop songs. All of the following plots are density plots about five variables (popularity, danceability, speechiness, valence, and tempo), seperated by the subgenres of pop.
 
-![](../../src/plots/spotify_30000_pop_popularity.png)
+## Plots
+
+### Popularity of Pop Songs by Subgenre
+![](../../src/plots/pop/spotify_30000_pop_popularity.png)
+
+### Danceability of Pop Songs by Subgenre
+![](../../src/plots/pop/spotify_30000_pop_danceability.png)
+
+### Speechiness of Pop Songs by Subgenre
+![](../../src/plots/pop/spotify_30000_pop_speechiness.png)
+
+### Valence of Pop Songs by Subgenre
+![](../../src/plots/pop/spotify_30000_pop_valence.png)
+
+### Tempo of Pop Songs by Subgenre
+![](../../src/plots/pop/spotify_30000_pop_tempo.png)
