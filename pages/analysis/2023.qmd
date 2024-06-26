@@ -1,0 +1,27 @@
+---
+title: "2023 Spotify Songs"
+---
+
+## Data Methodology
+I used the [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) dataset to make these plots. There is around 1000 rows of data. 
+
+
+## Plots
+### Artist With Most Number of Top 1000 Streamed Songs in 2023
+![](../../src/plots/spotify_2023_artists.png)
+This doesn't completely mean popularity, but using the number of songs on the leaderboard is a good enough estimate. It doesn't overcount artists with one hit wonders. 
+
+
+### Top 1000 Streamed Songs in 2023 By Release Year
+![](../../src/plots/spotify_2023_release_year.png)
+
+
+### BPM of Top 1000 Streamed Songs in 2023
+![](../../src/plots/spotify_2023_bpm.png)
+approximately normal distribution.
+
+
+
+### Energy of Top 1000 Streamed Songs in 2023
+![](../../src/plots/spotify_2023_energy.png)
+

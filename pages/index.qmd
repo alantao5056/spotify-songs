@@ -1,0 +1,19 @@
+---
+title: "Spotify Songs"
+author: "Alan Tao"
+execute: 
+  echo: false
+---
+
+# Introduction
+How did music evolve over time? What makes music popular? What defines a music's genre? This project explores these questions with music data from Kaggle. They are accurate because they mostly all come from the Spotify API. I cleaned it by removing some of the NA values, and also sometimes grouping some categories together such as genre or artists to create graphs.
+
+Music duration and valence has decreased 20% from 1999 to 2019.
+
+![](../src/plots/spotify_2000_2019_valence.png)
+
+
+![](../src/plots/spotify_2000_2019_duration.png)
+
+
+

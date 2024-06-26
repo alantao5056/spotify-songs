@@ -1,0 +1,5 @@
+---
+title: "R&B"
+---
+
+![](../../src/plots/spotify_30000_r&b_danceability.png)

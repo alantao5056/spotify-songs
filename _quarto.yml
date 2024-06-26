@@ -3,16 +3,42 @@ project:
 
 website:
   title: "Spotify Songs"
+  favicon: logo.png
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
-      - href: plots.qmd
-
+      - pages/about.qmd
+      - text: "Analysis"
+        menu:
+          - text: "General"
+            href: pages/analysis/general.qmd
+          - text: "Music Trends Over Time"
+            href: pages/analysis/time.qmd
+          - text: "Music in 2023"
+            href: pages/analysis/2023.qmd
+          - text: "Pop"
+            href: pages/analysis/pop.qmd
+          - text: "Latin"
+            href: pages/analysis/latin.qmd
+          - text: "Rap"
+            href: pages/analysis/rap.qmd
+          - text: "Rock"
+            href: pages/analysis/rock.qmd
+          - text: "R&B"
+            href: pages/analysis/r&b.qmd
+          - text: "EDM"
+            href: pages/analysis/edm.qmd
+    right:
+      - icon: github
+        href: https://github.com/alantao5056
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCzdtyvYuUM6EGKhtsbF_jhQ/
+      - icon: spotify
+        href: https://open.spotify.com/user/31ackcqgy2jda7bqz72fovthuxoe
 format:
   html:
-    theme: cosmo
+    theme: Minty
     css: styles.css
     toc: true
 

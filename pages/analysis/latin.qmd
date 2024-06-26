@@ -1,0 +1,5 @@
+---
+title: "Latin"
+---
+
+![](../../src/plots/spotify_30000_latin_popularity.png)

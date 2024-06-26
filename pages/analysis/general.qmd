@@ -1,0 +1,29 @@
+---
+title: "General"
+---
+
+## Data Methodology
+I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. 
+
+
+## Plots
+
+### Song Genre and Popularity Index
+![](../../src/plots/spotify_30000_genre_popularity.png)
+
+
+### Key of Songs
+![](../../src/plots/spotify_30000_key.png)
+
+
+### Tempo of Songs By Genre
+![](../../src/plots/spotify_30000_tempo.png)
+EDM has generally a fixed tempo. 
+
+
+### Danceability of Songs by Genre
+![](../../src/plots/spotify_30000_danceability.png)
+
+
+
+
