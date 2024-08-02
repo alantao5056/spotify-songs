@@ -57,7 +57,7 @@ spotify_30000 |>
   geom_density(size = 1) +
   theme_bw() +
   labs(title = "Key of Songs",
-       subtitle = "E is the most unpopular key",
+       subtitle = "D# is the most unpopular key",
        x = "Key",
        y = "Density",
        caption = "30000 Spotify Songs")
