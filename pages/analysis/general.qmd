@@ -3,7 +3,7 @@ title: "General"
 ---
 
 ## Data Methodology
-I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. 
+I used the [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs){target="blank"} dataset from Kaggle to make these plots. These songs are pulled from the Spotify API to represent songs from all of Spotify. 
 
 
 ## Plots

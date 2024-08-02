@@ -5,7 +5,7 @@ format: html
 
 ## Data Methodology
 
-The following plots come from a dataset I found in Kaggle, called [Top Hits Spotify from 2000-2019](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019). It contains 2000 songs on Spotify from 2000 to 2019, although there were also some songs from 1999 that I included. It contains multiple different variables for each song, such as the ones listed in the "Home" page.
+The following plots come from a dataset I found in Kaggle, called [Top Hits Spotify from 2000-2019](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019){target="blank"}. It contains 2000 songs on Spotify from 2000 to 2019, although there were also some songs from 1999 that I included. It contains multiple different variables for each song, such as the ones listed in the "Home" page.
 
 ## Plots
 

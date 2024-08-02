@@ -3,7 +3,7 @@ title: "2023 Spotify Songs"
 ---
 
 ## Data Methodology
-I used the [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) dataset to make these plots. There is around 1000 rows of data. 
+I used the [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023){target="blank"} dataset to make these plots. There is around 1000 rows of data. 
 
 
 ## Plots
